@@ -2,6 +2,11 @@
 
 ## Introduction
 
+<a href="http://www.flickr.com/photos/big-bubbles/8407127853/" title="UNIX
+Handbook 4th Edition by aderixon, on Flickr"><img
+src="https://farm9.staticflickr.com/8464/8407127853_6ece1c3cc3_n.jpg"
+width="240" height="320" alt="UNIX Handbook 4th Edition"></a>
+
 This is an online version of the hardcopy manual given to new
 undergraduates by the Computer Science department at University College of
 Wales, Aberystwyth in the late 80s/early 90s. It was intended to assist
