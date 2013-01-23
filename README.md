@@ -1,5 +1,3 @@
-$Id$
-
 # UNIX Handbook 4th Edition
 
 ## Introduction
@@ -58,3 +56,5 @@ Google.)
 ## Curator
 
 Ade Rixon, [Big Bubbles (No Troubles)](http://www.big-bubbles.org.uk/)
+
+$Id$
