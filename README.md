@@ -37,6 +37,10 @@ the GNU utilities and modern desktop environments.
 
 It also tells you how to pronounce 'vi' correctly.
 
+For more information on the background behind this project, see [this blog
+post](http://www.big-bubbles.fluff.org/blogs/bubbles/blog/2013/01/23/unix-handbook-4th-edition/)
+and [this one](http://www.big-bubbles.fluff.org/blogs/bubbles/blog/2013/01/22/linuxs-not-unix/).
+
 ## Maintenance
 
 If you find any broken links or have suggestions for improvement, please
